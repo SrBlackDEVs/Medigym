@@ -1,0 +1,7 @@
+-Dfile.encoding=UTF-8
+-p
+"C:\\Users\\SrBlack__\\Desktop\\Codes\\Medigym\\lib\\mysql-connector-java-5.1.47.jar;C:\\Program Files\\Java\\jdk-18.0.2\\lib\\comm.jar;C:\\Users\\SrBlack__\\Desktop\\Codes\\Medigym\\lib\\RXTXcomm.jar"
+-classpath
+"C:\\Users\\SrBlack__\\Desktop\\Codes\\Medigym\\bin;C:\\Users\\SrBlack__\\Desktop\\Codes\\Medigym\\lib\\jSerialComm-2.9.2.jar"
+-XX:+ShowCodeDetailsInExceptionMessages
+General.Init

@@ -1,0 +1,7 @@
+-Dfile.encoding=Cp1252
+-p
+"C:\\Users\\SrBlack__\\Documents\\Medigym\\lib\\arduino.jar;C:\\Users\\SrBlack__\\Documents\\Medigym\\lib\\mysql-connector-java-5.1.47.jar"
+-classpath
+"C:\\Users\\SrBlack__\\Documents\\Medigym\\bin"
+-XX:+ShowCodeDetailsInExceptionMessages
+General.Init
