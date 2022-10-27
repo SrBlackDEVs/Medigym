@@ -4,7 +4,8 @@ import javax.swing.JOptionPane;
 
 public class Init {
     public static void main(String[] args) throws InterruptedException {
-        login.mainWindow.Window();
+        //login.mainWindow.Window();
+        LoadUI.Window();
     }
 
     public static void Pane() throws InterruptedException {
